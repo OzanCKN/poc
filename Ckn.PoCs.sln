@@ -1,0 +1,69 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PostgresGemini", "PostgresGemini", "{A8DA7909-1422-48CA-AD4F-5DB4FB30B83A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PostgresqlGemini.Domain", "PostgresqlGemini.Domain\PostgresqlGemini.Domain.csproj", "{8A919D7A-1BA3-42DF-AF59-7DABC1F06F18}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PostgresqlGemini.Application", "PostgresqlGemini.Application\PostgresqlGemini.Application.csproj", "{89EEEC3A-B062-4F21-8A25-B7538E0D3699}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PostgresqlGemini.Infrastructure", "PostgresqlGemini.Infrastructure\PostgresqlGemini.Infrastructure.csproj", "{4F3F8EA3-AAF7-4ED4-A555-C6D23F752B81}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UI", "UI", "{FD4BE379-FBA7-467C-8E70-23BA9723F3C4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TestTools", "TestTools", "{66A97D77-6E1E-4D61-AADF-2E01DB306C11}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PostgresqlGemini.TestConsole", "PostgresqlGemini.TestConsole\PostgresqlGemini.TestConsole.csproj", "{1C244F89-4E6B-499C-8CEF-674A77BB9DA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostgresqlGemini.Api", "PostgresqlGemini.Api\PostgresqlGemini.Api.csproj", "{EE46BFA7-44EE-4519-B9FF-D4A6C9BD248B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7D9EACF2-FDD3-4660-A7E1-C15AB5F28F4D}"
+	ProjectSection(SolutionItems) = preProject
+		Readme.txt = Readme.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A919D7A-1BA3-42DF-AF59-7DABC1F06F18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A919D7A-1BA3-42DF-AF59-7DABC1F06F18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A919D7A-1BA3-42DF-AF59-7DABC1F06F18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A919D7A-1BA3-42DF-AF59-7DABC1F06F18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89EEEC3A-B062-4F21-8A25-B7538E0D3699}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89EEEC3A-B062-4F21-8A25-B7538E0D3699}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89EEEC3A-B062-4F21-8A25-B7538E0D3699}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89EEEC3A-B062-4F21-8A25-B7538E0D3699}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F3F8EA3-AAF7-4ED4-A555-C6D23F752B81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F3F8EA3-AAF7-4ED4-A555-C6D23F752B81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F3F8EA3-AAF7-4ED4-A555-C6D23F752B81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F3F8EA3-AAF7-4ED4-A555-C6D23F752B81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C244F89-4E6B-499C-8CEF-674A77BB9DA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C244F89-4E6B-499C-8CEF-674A77BB9DA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C244F89-4E6B-499C-8CEF-674A77BB9DA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C244F89-4E6B-499C-8CEF-674A77BB9DA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE46BFA7-44EE-4519-B9FF-D4A6C9BD248B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE46BFA7-44EE-4519-B9FF-D4A6C9BD248B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE46BFA7-44EE-4519-B9FF-D4A6C9BD248B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE46BFA7-44EE-4519-B9FF-D4A6C9BD248B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8A919D7A-1BA3-42DF-AF59-7DABC1F06F18} = {A8DA7909-1422-48CA-AD4F-5DB4FB30B83A}
+		{89EEEC3A-B062-4F21-8A25-B7538E0D3699} = {A8DA7909-1422-48CA-AD4F-5DB4FB30B83A}
+		{4F3F8EA3-AAF7-4ED4-A555-C6D23F752B81} = {A8DA7909-1422-48CA-AD4F-5DB4FB30B83A}
+		{FD4BE379-FBA7-467C-8E70-23BA9723F3C4} = {A8DA7909-1422-48CA-AD4F-5DB4FB30B83A}
+		{66A97D77-6E1E-4D61-AADF-2E01DB306C11} = {A8DA7909-1422-48CA-AD4F-5DB4FB30B83A}
+		{1C244F89-4E6B-499C-8CEF-674A77BB9DA2} = {66A97D77-6E1E-4D61-AADF-2E01DB306C11}
+		{EE46BFA7-44EE-4519-B9FF-D4A6C9BD248B} = {FD4BE379-FBA7-467C-8E70-23BA9723F3C4}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F17BB202-A6AB-4199-8D66-80871C9AAA1D}
+	EndGlobalSection
+EndGlobal

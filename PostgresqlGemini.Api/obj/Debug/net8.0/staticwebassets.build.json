@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Jv+ShfvUQJGoa26EkuPI3pGoHSdd7tLE+hx+/I3xKIA=",
+  "Source": "PostgresqlGemini.Api",
+  "BasePath": "_content/PostgresqlGemini.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

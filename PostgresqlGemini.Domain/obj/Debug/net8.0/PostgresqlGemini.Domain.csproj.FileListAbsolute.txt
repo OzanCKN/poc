@@ -1,0 +1,12 @@
+E:\Development\PostgresqlGeminiPoC\Ckn.PoCs\PostgresqlGemini.Domain\bin\Debug\net8.0\PostgresqlGemini.Domain.deps.json
+E:\Development\PostgresqlGeminiPoC\Ckn.PoCs\PostgresqlGemini.Domain\bin\Debug\net8.0\PostgresqlGemini.Domain.dll
+E:\Development\PostgresqlGeminiPoC\Ckn.PoCs\PostgresqlGemini.Domain\bin\Debug\net8.0\PostgresqlGemini.Domain.pdb
+E:\Development\PostgresqlGeminiPoC\Ckn.PoCs\PostgresqlGemini.Domain\obj\Debug\net8.0\PostgresqlGemini.Domain.csproj.AssemblyReference.cache
+E:\Development\PostgresqlGeminiPoC\Ckn.PoCs\PostgresqlGemini.Domain\obj\Debug\net8.0\PostgresqlGemini.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Development\PostgresqlGeminiPoC\Ckn.PoCs\PostgresqlGemini.Domain\obj\Debug\net8.0\PostgresqlGemini.Domain.AssemblyInfoInputs.cache
+E:\Development\PostgresqlGeminiPoC\Ckn.PoCs\PostgresqlGemini.Domain\obj\Debug\net8.0\PostgresqlGemini.Domain.AssemblyInfo.cs
+E:\Development\PostgresqlGeminiPoC\Ckn.PoCs\PostgresqlGemini.Domain\obj\Debug\net8.0\PostgresqlGemini.Domain.csproj.CoreCompileInputs.cache
+E:\Development\PostgresqlGeminiPoC\Ckn.PoCs\PostgresqlGemini.Domain\obj\Debug\net8.0\PostgresqlGemini.Domain.dll
+E:\Development\PostgresqlGeminiPoC\Ckn.PoCs\PostgresqlGemini.Domain\obj\Debug\net8.0\refint\PostgresqlGemini.Domain.dll
+E:\Development\PostgresqlGeminiPoC\Ckn.PoCs\PostgresqlGemini.Domain\obj\Debug\net8.0\PostgresqlGemini.Domain.pdb
+E:\Development\PostgresqlGeminiPoC\Ckn.PoCs\PostgresqlGemini.Domain\obj\Debug\net8.0\ref\PostgresqlGemini.Domain.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Cb9eQ8xtbwIbN/xNTYY0lPtRv+a35dSvQz5pn73lDxr3xo7bElOhOhR9UbAG+uv2mojWaF8g0U1eXJdeD8ZXdQ==",
+  "success": true,
+  "projectFilePath": "E:\\Development\\PostgresqlGeminiPoC\\Ckn.PoCs\\PostgresqlGemini.Domain\\PostgresqlGemini.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ozanc\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

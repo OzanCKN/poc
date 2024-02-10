@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "FKCQA8/viOEo5NZaZ+cZyZXkQhVjsQqmVlzVAxjvcBTpQxg2fCWaDvD9dHVloM3TIysRXMFPyNi5ElehbKeSAA==",
+  "success": true,
+  "projectFilePath": "E:\\Development\\PostgresqlGeminiPoC\\Ckn.PoCs\\PostgresqlGemini.Application\\PostgresqlGemini.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ozanc\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
+    "C:\\Users\\ozanc\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.9.0\\fluentvalidation.dependencyinjectionextensions.11.9.0.nupkg.sha512",
+    "C:\\Users\\ozanc\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\ozanc\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\ozanc\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\ozanc\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
